@@ -2,6 +2,15 @@
 
 This package contains common *Roboto* font [styles](https://github.com/ox2/css-font-roboto#bundled-font-styles) that are converted to base64-encoded data URI strings and embedded into a single css file.
 
+### Installation
+Install using [npm](http://npmjs.com):
+```
+npm install @ox2/css-font-roboto --save
+```
+Install using [yarn](http://yarnpkg.com):
+```
+yarn add @ox2/css-font-roboto
+```
 ### Why
 This is useful for prototyping as you can start using the font quickly by importing single css file to your project/playground and it does not require internet connection to use it once the package has been installed. Depending on your setup and use case this could be used in a production app as well, for example you could merge it with your current style sheet and included in Cordova app bundle for a more consistent font loading experience.
 
