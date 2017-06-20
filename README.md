@@ -1,6 +1,5 @@
 # @ox2/css-font-roboto
-![NPM version](https://img.shields.io/badge/npm-private-orange.svg?style=flat)
-<!-- ![NPM version](https://img.shields.io/npm/v/@ox2/css-font-roboto.svg?style=flat) -->
+![NPM version](https://img.shields.io/npm/v/@ox2/css-font-roboto.svg?style=flat)
 
 ## Roboto Font v15
 
