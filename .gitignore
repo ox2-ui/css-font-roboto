@@ -1,6 +1,6 @@
 node_modules
-build
 *.log
+/build
 
 # OS files
 .DS_STORE
