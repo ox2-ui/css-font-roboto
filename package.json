@@ -1,6 +1,6 @@
 {
   "name": "@ox2/css-font-roboto",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Roboto font base64 encoded and embedded in css",
   "main": "index.css",
   "scripts": {
