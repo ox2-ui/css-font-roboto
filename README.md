@@ -36,7 +36,7 @@ You can use it in a webpack project by importing it `import '@ox2/css-font-robot
 ## Font update instructions
 Note: There may only be a need to update it when there is a new **font** version released by Google Fonts.
 
-Current font version: **v15**
+Current font version: **v18**
 
 1. Download remote css file from Google fonts, output: `downloads/index.css`:
 ```
